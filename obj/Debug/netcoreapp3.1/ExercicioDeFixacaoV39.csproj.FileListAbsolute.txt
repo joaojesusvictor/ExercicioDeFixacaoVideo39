@@ -1,0 +1,13 @@
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.exe
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.deps.json
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.runtimeconfig.json
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.runtimeconfig.dev.json
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.dll
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\bin\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.pdb
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.csprojAssemblyReference.cache
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.AssemblyInfoInputs.cache
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.AssemblyInfo.cs
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.csproj.CoreCompileInputs.cache
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.dll
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.pdb
+C:\ws-vs2019\ExercicioDeFixacaoV39\ExercicioDeFixacaoV39\obj\Debug\netcoreapp3.1\ExercicioDeFixacaoV39.genruntimeconfig.cache
