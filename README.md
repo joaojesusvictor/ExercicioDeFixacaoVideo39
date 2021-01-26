@@ -1,2 +1,3 @@
 # ExercicioDeFixacaoV39
- Resolução dos exercícios de fixação
+
+Resolução do exercício de fixação do vídeo 39 do curso de C# da Udemy
